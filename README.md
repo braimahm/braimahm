@@ -8,12 +8,6 @@
 ⚡ Fun fact: Data Everywhere
 
 
-
-
-
-![duke](https://github.com/braimahm/braimahm/assets/52035307/948754bf-813e-412e-8d6d-9616d9f8d507)
-
-
 ![Screenshot 2024-06-27 124957](https://github.com/braimahm/braimahm/assets/52035307/f1600ada-516b-4484-b64a-249e706d4cc6)
 
 
