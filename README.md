@@ -1,16 +1,14 @@
-## Hi there 👋
+                                                              ## Hi, I am Mohammed Braimah 👋
 
-<!--
-**braimahm/braimahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##🔭 I’m currently working on using geospatial python and machine learning models to estimate soil carbon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🌱I’m currently learning remote sensing and machine learning
+
+##⚡ Fun fact: Data Everywhere
+
+
+![duke](https://github.com/braimahm/braimahm/assets/52035307/948754bf-813e-412e-8d6d-9616d9f8d507)
+
+
+![Screenshot 2024-06-27 124957](https://github.com/braimahm/braimahm/assets/52035307/f1600ada-516b-4484-b64a-249e706d4cc6)
