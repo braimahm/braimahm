@@ -1,4 +1,4 @@
-                                **Hi, I am Mohammed Braimah **👋
+                                Hi, I am Mohammed Braimah 👋
 
 
 🔭 I’m currently working on using geospatial python and machine learning models to estimate soil carbon
