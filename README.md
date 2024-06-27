@@ -1,11 +1,11 @@
                                 Hi, I am Mohammed Braimah 👋
 
 
-##🔭 I’m currently working on using geospatial python and machine learning models to estimate soil carbon
+🔭 I’m currently working on using geospatial python and machine learning models to estimate soil carbon
 
-##🌱I’m currently learning remote sensing and machine learning
+🌱I’m currently learning remote sensing and machine learning
 
-##⚡ Fun fact: Data Everywhere
+⚡ Fun fact: Data Everywhere
 
 
 ![duke](https://github.com/braimahm/braimahm/assets/52035307/948754bf-813e-412e-8d6d-9616d9f8d507)
