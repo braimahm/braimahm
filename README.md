@@ -7,7 +7,8 @@
 
 ⚡ Fun fact: Data Everywhere
 
-https://www.coursera.org/account/accomplishments/specialization/certificate/C4MZGTNK45TU
+
+
 
 
 ![duke](https://github.com/braimahm/braimahm/assets/52035307/948754bf-813e-412e-8d6d-9616d9f8d507)
