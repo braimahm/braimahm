@@ -7,8 +7,6 @@
 
 ⚡ Fun fact: Data Everywhere
 
-file:///C:/Users/Owner/Desktop/Coursera%20RULG7V4AC94D.pdf
-
 https://www.coursera.org/account/accomplishments/specialization/certificate/C4MZGTNK45TU
 
 
